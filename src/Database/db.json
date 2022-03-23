@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "name": "Pavan Darji",
+      "username": "Pavan",
+      "email": "pavan@mail.com",
+      "phone": "9974464166",
+      "id": 1
+    },
+    {
+      "name": "Jinal",
+      "username": "Jinal",
+      "email": "jinal@mail.com",
+      "phone": "7984666788",
+      "id": 2
+    },
+    {
+      "name": "Dhaval",
+      "username": "Pavan12",
+      "email": "p@mail.com",
+      "phone": "7984664143",
+      "id": 3
+    },
+    {
+      "name": "dasd",
+      "username": "dadas",
+      "email": "dada",
+      "phone": "dada",
+      "id": 4
+    },
+    {
+      "name": "dasd",
+      "username": "dadas",
+      "email": "dada",
+      "phone": "dada",
+      "id": 5
+    },
+    {
+      "name": "dasd",
+      "username": "dadas",
+      "email": "dada",
+      "phone": "dada",
+      "id": 6
+    },
+    {
+      "name": "dasd",
+      "username": "dadas",
+      "email": "dada",
+      "phone": "dada",
+      "id": 7
+    },
+    {
+      "name": "dasd",
+      "username": "dadas",
+      "email": "dada",
+      "phone": "dada",
+      "id": 8
+    },
+    {
+      "name": "dasda",
+      "username": "asdas",
+      "email": "adadadad",
+      "phone": "asdasdada",
+      "id": 9
+    },
+    {
+      "name": "asdsda",
+      "username": "dasd",
+      "email": "adaddad",
+      "phone": "asdasdad",
+      "id": 10
+    },
+    {
+      "name": "Pavan Darji",
+      "username": "Pavan",
+      "email": "jinal@mail.com",
+      "phone": "9974464166",
+      "id": 11
+    }
+  ]
+}
